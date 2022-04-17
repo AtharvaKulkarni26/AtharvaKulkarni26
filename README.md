@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtharvaKulkarni26
 - 👀 I’m interested in Data Analytics, Data Science
 - 🌱 I’m currently learning basic concepts of Data Science
-- 💞️ I’m looking to collaborate on Data Science and Analytics Projects, Research, Competition
+- 💞️ I’m looking to collaborate on Data Science and Analytics Projects, Research, Competitions
 - 📫 How to reach me - you can email me at atharvakulkarni26.ak@gmail.com
 
 <!---
