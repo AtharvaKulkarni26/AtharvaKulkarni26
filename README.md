@@ -14,4 +14,4 @@ AI tool to remove a manual process.
 Business intelligence and financial/operational analysis that changes a decision, not just a
 dashboard that looks nice. Currently deepening DAX and Microsoft Fabric, and working toward the CFA.
 
-📫 Reach me: atharvakulkarni26.ak@gmail.com  ·  [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/atharva-kulkarni26/))
+📫 Reach me: atharvakulkarni26.ak@gmail.com  ·  [LinkedIn](https://www.linkedin.com/in/atharva-kulkarni26/))
